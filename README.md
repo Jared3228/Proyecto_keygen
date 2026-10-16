@@ -29,12 +29,12 @@ Instrucciones:
 2. Escribir nuestro nombre
 3. Listo, se nos devolverá nuestra "key" en formato hexadecimal
 
-[Imagen]
+<img width="447" height="49" alt="ejecucion" src="https://github.com/user-attachments/assets/dc71a0b3-f0d0-407d-81a3-abd4fa6d38fe" />
 
 Nota: En caso de no haber escrito nada el programa devolverá el mensaje de error "Nombre no valido"
 
-[Imagen]
+<img width="447" height="44" alt="Captura de pantalla 2026-10-15 233811" src="https://github.com/user-attachments/assets/c1710e20-149a-44ee-9ea9-760ee7c1f50a" />
 
 # Explicación del algoritmo de generación de llave
 
-El algoritmo recorre la cadena de texto dada por el usuario, suma los valores 
+El algoritmo recorre la cadena de texto dada por el usuario, suma los valores de los caracteres ASCII y a la suma acumulada la convierte a hexadecimal.
