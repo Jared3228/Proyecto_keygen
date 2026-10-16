@@ -1,5 +1,7 @@
 # Proyecto_keygen
 
+Nombre del alumno: Leonardo Jared Ley Gomez
+
 ## Descripción del proyecto
 
 El siguiente proyecto en ensamblador es un generador de llaves o "keys", tomando como base el input del usuario. Pide un nombre y el código calcula la suma de sus caracteres en ASCII, posteriormente transforma la suma acumulada a hexadecimal e imprime el resultado "key" de 16 dígitos. 
